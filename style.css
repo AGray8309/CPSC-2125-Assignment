@@ -1,5 +1,5 @@
 body { 
-  background-color: rgb(194, 196, 197);
+  background-color: rgb(8, 147, 216);
 }
 
 h1 {
@@ -10,4 +10,14 @@ h1 {
 p {
   font-family: verdana;
   font-size: 20px;
+}
+
+#t01 {
+  width: 100%;
+  background-color: #f1f1c1;
+}
+
+#t02 {
+  width: 100%;
+  background-color: #f1f1c1;
 }
