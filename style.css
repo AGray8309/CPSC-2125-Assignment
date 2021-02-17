@@ -14,10 +14,34 @@ p {
 
 #t01 {
   width: 100%;
-  background-color: #f1f1c1;
+  
+}
+
+#t01 tr:nth-child(even) {
+  background-color: yellow;
+}
+#t01 tr:nth-child(odd) {
+  color: white;
+  background-color: orange;
+}
+#t01 th {
+  color: white;
+  background-color: black;
 }
 
 #t02 {
   width: 100%;
   background-color: #f1f1c1;
+}
+
+#t02 tr:nth-child(even) {
+  background-color: yellow;
+}
+#t21 tr:nth-child(odd) {
+  color: white;
+  background-color: orange;
+}
+#t02 th {
+  color: white;
+  background-color: black;
 }
